@@ -6,13 +6,9 @@
   "author": "david <davidmirandagrinstein@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "puppeteer": "^5.5.0",
-    "puppeteer-extra": "^3.1.15",
-    "puppeteer-extra-plugin-stealth": "^2.6.5",
-    "random-useragent": "^0.5.0",
-    "user-agents": "^1.0.559"
+    "puppeteer": "^5.5.0"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "node main.js"
   }
 }
