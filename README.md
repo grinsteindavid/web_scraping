@@ -1,4 +1,5 @@
 # How To
 
 * yarn install
-* yarn run start YOUR_DNI
+* Create a .env file with your DNI, gmails credentials and email recipient
+* yarn run start
